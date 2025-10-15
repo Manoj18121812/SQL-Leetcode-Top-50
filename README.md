@@ -13,6 +13,7 @@
 | [1153-product-sales-analysis-i](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1415-students-and-examinations) |
