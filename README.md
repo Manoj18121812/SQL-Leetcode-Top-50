@@ -24,6 +24,7 @@
 | [1827-invalid-tweets](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->-LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
