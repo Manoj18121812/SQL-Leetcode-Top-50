@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0584-find-customer-referee) |
