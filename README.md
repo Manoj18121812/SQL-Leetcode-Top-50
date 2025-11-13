@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Manoj18121812/SQL-Leetcode-Top-50/tree/master/0197-rising-temperature) |
