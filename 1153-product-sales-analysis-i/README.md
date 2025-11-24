@@ -15,7 +15,7 @@ product_id is a foreign key (reference column) to <code>Product</code> table.
 Each row of this table shows a sale on the product product_id in a certain year.
 Note that the price is per unit.
 </pre>
-
+  
 <p>&nbsp;</p>
 
 <p>Table: <code>Product</code></p>
