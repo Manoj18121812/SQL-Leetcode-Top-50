@@ -11,7 +11,7 @@
 Each row of this table indicates the name of a student and the class in which they are enrolled.
 </pre>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 
 <p>Write a solution to find all the classes that have <strong>at least five students</strong>.</p>
 
