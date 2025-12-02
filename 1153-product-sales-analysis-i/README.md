@@ -8,7 +8,7 @@
 | product_id  | int   |
 | year        | int   |
 | quantity    | int   |
-| price       | int   |
+| price       | int   | 
 +-------------+-------+
 (sale_id, year) is the primary key (combination of columns with unique values) of this table.
 product_id is a foreign key (reference column) to <code>Product</code> table.
