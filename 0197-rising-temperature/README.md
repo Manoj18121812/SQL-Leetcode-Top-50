@@ -6,7 +6,7 @@
 +---------------+---------+
 | id            | int     |
 | recordDate    | date    |
-| temperature   | int     |
+| temperature   | int     | 
 +---------------+---------+
 id is the column with unique values for this table.
 There are no different rows with the same recordDate.
