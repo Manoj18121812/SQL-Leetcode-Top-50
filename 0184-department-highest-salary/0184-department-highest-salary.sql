@@ -11,3 +11,4 @@ WHERE (e.departmentId, e.salary) IN (
     FROM Employee
     GROUP BY departmentId
 ); 
+   
