@@ -1,8 +1,5 @@
-
-select Customers.name AS Customers
-from Customers 
-left join Orders
-on Customers.id = Orders.CustomerId
-where Orders.customerID is null;
-
-
+SELECT c.name AS Customers
+FROM Customers c
+LEFT JOIN Orders o
+  ON c.id = o.customerId
+WHERE o.id IS NULL;
