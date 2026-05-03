@@ -3,7 +3,7 @@
 <pre>
 +-------------+---------+
 | Column Name | Type    |
-+-------------+---------+
++-------------+---------+ 
 | personId    | int     |
 | lastName    | varchar |
 | firstName   | varchar |
